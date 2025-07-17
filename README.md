@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">👋 Hello there! I'm Mahi Gupta, currently pursuing a degree in Artificial Intelligence and Machine Learning at NSEC, Kolkata. I'm deeply passionate about leveraging cutting-edge technologies to solve real-world problems and enhance user experiences.<br><br>🚀 Right now, I'm sharpening my skills in HTML and CSS, exploring their versatility and power to create dynamic and visually appealing web interfaces. Understanding the fundamentals of web design is crucial to me, as it lays the groundwork for building seamless user experiences.<br><br>🌱 In addition to web development, I'm venturing into Android app development using Kotlin. The prospect of creating mobile applications that integrate seamlessly with users' lives excites me, and I'm eager to leverage Kotlin's modern features to build innovative solutions.<br><br>🔍 Beyond academics, I'm always on the lookout for opportunities to apply my skills in real-world projects. Whether it's designing intuitive web interfaces or developing feature-rich Android applications, I'm committed to creating impactful solutions that enhance user experiences</p>
+<p align="left">
+👋 Hello there! I'm Mahi Gupta, currently pursuing a degree in Artificial Intelligence and Machine Learning at NSEC, Kolkata. I'm passionate about using modern technologies to solve real-world problems and deliver seamless user experiences.<br><br>
+
+🚀 Right now, I'm sharpening my skills in full-stack web development with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. I enjoy crafting responsive, dynamic user interfaces using React and Tailwind CSS, and building efficient backend systems with Node.js and Flask.<br><br>
+
+🌱 Alongside web development, I’m continuously learning Python, exploring machine learning algorithms, and gaining experience with tools like Postman, MySQL, and OpenCV. I enjoy tackling both frontend and backend challenges to build complete, scalable applications.<br><br>
+
+🔍 Beyond academics, I'm actively involved in open-source programs like Hacktoberfest and GirlScript Summer of Code. I’m always looking for opportunities to apply my skills in real-world projects and collaborate with passionate developers to create impactful tech solutions.
+</p>
+
 
 ###
 
